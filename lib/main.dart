@@ -17,7 +17,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Responsi Ikan',
+      title: 'Responsi List Teman Ikan',
       debugShowCheckedModeBanner: false,
       home: IkanPage(), // The displayed page is determined by the login status.
     );

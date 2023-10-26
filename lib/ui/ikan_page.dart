@@ -16,7 +16,7 @@ class _IkanPageState extends State<IkanPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('List Ikan'),
+        title: const Text('List Temen Ikan'),
         actions: [
           Padding(
               padding: const EdgeInsets.only(right: 20.0),
